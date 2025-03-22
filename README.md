@@ -3,6 +3,7 @@
 A sleek, floating digital time display with a stunning retro aesthetic. Powered by PyQt6, this widget merges nostalgic charm with modern functionality, offering a stylish yet practical timekeeping experience.
 This is my first design product using Figma and AI agents for coding.
 
+https://github.com/user-attachments/assets/d4bcbc03-0945-4fb8-9f8f-7a47820c83b1
 
 ## Features🌟 
 1. **Dynamic Digital Clock** – Crisp, real-time updates in the retro "Starbuster" font.
